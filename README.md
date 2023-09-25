@@ -1,4 +1,4 @@
-Hi! I'm a Developer Documentation Specialist. I developed the documentation processes for the [platformOS Developer Portal](https://documentation.platformos.com/) and manage all phases of the editorial workflow, create templates, incorporate best practices, and write, edit, and review content. I spoke about various aspects of building world-class developer docs at conferences like Write The Docs, tcworld, DevRelCon, and API The Docs.
+Hi! I'm a Developer Documentation Specialist. I developed the documentation processes for the [platformOS Developer Portal](https://documentation.platformos.com/) and manage all phases of the editorial workflow, create templates, incorporate best practices, and write, edit, and review content. I spoke about various aspects of building efficient developer docs at conferences like Write The Docs, tcworld, DevRelCon, and API The Docs.
 
 ## Awards
 
