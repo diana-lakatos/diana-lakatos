@@ -1,5 +1,8 @@
 Hi! I'm a Developer Documentation Specialist. I developed the documentation processes for the [platformOS Developer Portal](https://documentation.platformos.com/) and manage all phases of the editorial workflow, create templates, incorporate best practices, and write, edit, and review content. I spoke about various aspects of building efficient developer docs at conferences like Write The Docs, tcworld, DevRelCon, and API The Docs.
 
+## Book
+[Crafting Docs for Success: An End-to-End Approach to Developer Documentation](https://www.amazon.com/Crafting-Docs-Success-End-End-ebook/dp/B0CD9RHQ4F/)
+
 ## Awards
 
 * [Best Overall SME DevPortal - DevPortal Awards 2022](https://documentation.platformos.com/community/awards/dpa_best_overall_sme_devportal)
