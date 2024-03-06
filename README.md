@@ -1,4 +1,4 @@
-Hi! I'm a Developer Documentation Specialist. I developed the documentation processes for the [platformOS Developer Portal](https://documentation.platformos.com/) and manage all phases of the editorial workflow, create templates, incorporate best practices, and write, edit, and review content. I spoke about various aspects of building efficient developer docs at conferences like Write The Docs, tcworld, DevRelCon, and API The Docs.
+Hi! I'm a Developer Documentation Specialist and the Director of Documentation at platformOS. In this role, I developed the documentation processes for the platformOS Developer Portal, managing all phases of the editorial workflow, creating templates, incorporating best practices, and writing, editing, and reviewing content. I now serve as the Product Lead of DocsKit, platformOS' Docs as Code documentation solution, where I oversee the vision, strategy, development, and team management. 
 
 ## Book
 [Crafting Docs for Success: An End-to-End Approach to Developer Documentation](https://www.amazon.com/Crafting-Docs-Success-End-End-ebook/dp/B0CD9RHQ4F/)
