@@ -4,7 +4,7 @@ I'm a Developer Documentation Specialist and the Director of Documentation at pl
 
 ## Find me online
 
-:globe_with_meridians: [dianalakatos.com](https://www.dianalakatos.com/)
+:globe_with_meridians: [dianalakatos.com](https://www.dianalakatos.com/)   
 :link: [LinkedIn profile](https://www.linkedin.com/in/dianalakatos/)
 
 ## Book
