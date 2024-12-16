@@ -7,6 +7,11 @@ I'm a Developer Documentation Specialist and the Director of Documentation at pl
 
 ## Awards
 
+Crafting Docs for Success: An End-to-End Approach to Developer Documentation:
+* UK Technical Communication Awards 2024 Merit Award
+
+platformOS Developer Portal:
+
 * [Best Overall SME DevPortal - DevPortal Awards 2022](https://documentation.platformos.com/community/awards/dpa_best_overall_sme_devportal)
 * [Best Accessible DevPortal - DevPortal Awards 2022](https://documentation.platformos.com/community/awards/dpa_best_accessible_devportal)
 * [Best New DX Innovation - DevPortal Awards 2022](https://documentation.platformos.com/community/awards/dpa_best_new_dx_innovation)
