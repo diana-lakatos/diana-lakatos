@@ -1,6 +1,6 @@
 # Hi! I'm Diana.
 
-I'm a Developer Documentation Specialist and the Director of Documentation at platformOS. In this role, I developed the documentation processes for the platformOS Developer Portal, managing all phases of the editorial workflow, creating templates, incorporating best practices, and writing, editing, and reviewing content. I now serve as the Product Lead of DocsKit, platformOS' Docs as Code documentation solution, where I oversee the vision, strategy, development, and team management. 
+I'm an experienced technical writer specializing in user and developer documentation, with over a decade of experience in the field. 
 
 ## Book
 :blue_book: [Crafting Docs for Success: An End-to-End Approach to Developer Documentation](https://www.amazon.com/Crafting-Docs-Success-End-End-ebook/dp/B0CD9RHQ4F/)
